@@ -4,9 +4,9 @@ An automated lead qualification pipeline that identifies, enriches, and ranks po
 
 ## 📊 Live Demo
 
-**Streamlit App**: [Coming Soon - Deploy to Streamlit Cloud]
+**Streamlit App**: https://euprime-lead-scoring.streamlit.app/
 
-**Sample Output**: [Google Sheets Link - Coming Soon]
+**Sample Output**: https://docs.google.com/spreadsheets/d/1N_P4GbE4l7QCtrTtvxL7bXrO8TPSMxYRP9-jEm_F7cY/edit?usp=sharing
 
 ## 🏛️ Architecture
 
@@ -127,29 +127,11 @@ The dashboard exports leads with these columns:
 | LinkedIn | Profile URL |
 | Score Breakdown | Individual signal contributions |
 
-## ☁️ Deployment (Streamlit Cloud)
-
-1. Push code to GitHub
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Connect your GitHub repository
-4. Select `app.py` as the main file
-5. Deploy!
-
-## 🔮 Future Enhancements
-
-- [ ] Real LinkedIn API integration (via Proxycurl)
-- [ ] Live PubMed search
-- [ ] Conference attendee list imports
-- [ ] CRM integration (Salesforce, HubSpot)
-- [ ] Email campaign automation
-- [ ] Slack/Teams notifications
-
 ## 📄 License
 
 MIT License - Built for Euprime AI Internship
 
 ---
 
-**Author**: [Your Name]  
+**Author**: Shanttoosh V
 **Date**: December 2025  
-**Contact**: akash@euprime.org
